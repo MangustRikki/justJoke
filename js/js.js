@@ -21,5 +21,6 @@ function adviceCreation() {
 
     writeAdvice.textContent = personalAdvice;
     button.textContent = "Get a new GREAT ADVICE";
+    button.style.backgroundColor = 'red';
 
 }

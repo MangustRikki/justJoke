@@ -12,6 +12,7 @@ body {
 
 .button {
     /*height: 30px;*/
+    width: 500px;
     display: inline-block;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 1.4rem;
