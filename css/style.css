@@ -1,0 +1,22 @@
+body {
+    font-size: 10px;
+}
+
+.wrap {
+    width: 600px;
+    margin: 0 auto;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.button {
+    /*height: 30px;*/
+    display: inline-block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: wheat;
+    border-radius: 10px;
+    background: navy;
+}
