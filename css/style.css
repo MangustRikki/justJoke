@@ -19,4 +19,5 @@ body {
     color: wheat;
     border-radius: 10px;
     background: navy;
+    cursor: pointer;
 }

@@ -20,5 +20,6 @@ function adviceCreation() {
     let personalAdvice = phrase1[randPhrase1] + " " + phrase2[randPhrase2] + " " + phrase3[randPhrase3];
 
     writeAdvice.textContent = personalAdvice;
+    button.textContent = "Get a new GREAT ADVICE";
 
 }
